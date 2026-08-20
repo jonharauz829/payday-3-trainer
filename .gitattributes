@@ -1,0 +1,14 @@
+# Language detection rules
+# Normalize line endings
+Cargo.lock linguist-generated
+*.woff2 binary
+
+node_modules/* linguist-vendored
+
+examples/site/index.html linguist-vendored
+*.png binary
+*.tsx linguist-detectable
+
+*.html linguist-vendored
+
+package-lock.json linguist-generated
