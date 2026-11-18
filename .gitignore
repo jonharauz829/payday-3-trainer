@@ -1,0 +1,7 @@
+npm-debug.log*
+coverage/
+*.log
+*.tgz
+.env.local
+.next/
+dist/
